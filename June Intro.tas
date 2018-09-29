@@ -1,0 +1,196 @@
+#June Collab Tas
+
+#By PlasmaLotus
+
+#Restart Chapter
+
+   1,S
+   1,D
+   1,F,180
+   1,D
+   1,F,180
+   1,D,J
+   1
+   1,J
+
+ 225
+
+
+#Intro 1
+  10,R,X
+   8,R,J
+  10,R,X
+   9,R,J
+  10,R,D,X
+   2,R,D,J
+
+  12,R,D,X
+  11,R,U,J
+  12,R,D,X
+   6,R,U,D,J
+  31
+
+#Intro Level 1
+  17,R,U,J,G
+   9,R,X
+  16,R,U,J
+
+
+   4,R,U,K,G
+  12,R,D
+
+   3,R,J
+  11,R,D,X
+   7,R,U,J
+  16,R,D,X
+   6,R,J
+
+#Here and There - SomeGuyNamedDavid
+#Lv 1-1
+  37
+
+   6,R,G
+   4,R,J,G
+  11,R,G
+   1,R,J,G
+  13,R
+   6,R,J
+  16,R
+
+   3,R,J
+  15,R
+   3,R,J
+  10,R
+   9,R,D
+  10,D
+  20
+  10,R
+   1,R,J
+  25,L,J,G
+
+  11,R,K
+  12,R,G
+  10,L,J
+  14,L
+   9,K
+   8,L,U,G
+   5,L,U,J,G
+   9,L,U,K,G
+
+
+  20,L,X
+   5,R,C
+  52,L,D
+   6,L,D,X
+
+   5,L,D
+  40
+  10,R,D,X
+  27,R,J
+   3,R,K
+  55,R
+
+#Level 1-2
+  13,R,D
+   5,R,X
+  14
+   3,L
+   6,U,J
+  15,U,X
+   5,L,U,J,G
+  66,L,U,G
+  13,D
+   7,U,J
+  12,L,K
+   5,J
+   5,L,J
+   4,L
+  19,R,D
+  10,R,D,X
+  85,D
+  10,R,J
+  11,R
+  14,L,U,X
+  23,D
+  28
+
+  11,R,X
+  21,R,J
+
+   5,U,X
+  10,L,U,G
+  45,L,U,G
+
+  45,L,U,J
+  21,L
+   1,L,J
+  15,L
+  17,L
+   6,L,J
+   7,L
+
+  11,L,X
+   1,L,J
+  14,R,J
+   5,L,U,X
+   3,L,U,G
+  27,L,U,J,G
+  36,G
+  41,R,U,J
+  18
+
+  12,R,D,X
+   1,R,D,J
+  18,R,D
+  50,R,J
+#Level 1-3
+
+   6,R,J
+  10,D,X
+  29
+   8,R
+  13,R,J
+  15,R
+  18,R,D
+  15,D
+  15,D
+   6,L,D
+  15,L,X,G
+  34,L,G
+  31,L
+  12,R,D,X
+  17,R,J
+   1,K
+  27,R,D
+
+  34,R
+  10,R,J
+   5,U,X
+  17,L,U,G
+   5,L,U,J,G
+  69,L,G
+  30,R,J
+  17,R
+  11,D,X
+  25,R,J
+  14,R
+  44,L,G
+   2,R,J
+  17,R,D
+   9,L,D
+  14,D,G
+   1,G
+  13,L,X
+
+  41,R,J
+
+  70,R,K,G
+
+#Intro Level 2
+  22,R,X
+  40,R,J
+
+#Level 2
+#Inside The Shrine - dahlukeh
+
+#WIP

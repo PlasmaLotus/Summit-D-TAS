@@ -1,0 +1,186 @@
+#Restart Chapter
+
+   1,S
+   1,D
+   1,F,180
+   1,D
+
+   1,F,180
+   1,D,J
+   1
+   1,J
+
+#31
+  31
+   1
+   1,J
+
+  85
+
+  10,R,D,X
+
+##Replace these values with 4 - 8
+##On1ly doing this to reduce respawn time while building tas
+   4,R,J
+   8,R
+##End
+
+
+  18,R,J
+   5,U,X
+  12,U
+   1,R,U,J
+   5,L,U,J
+  10,R,U,J
+  10,R
+   9,R
+  11,R,D,X
+  17,R,J
+   
+   8,R
+  13,L,D
+   6,L,X
+   9,L
+   6,L,X
+  30,R,D
+  10,D
+  12,R,D,X
+  20,R,J
+   7,R,J
+   6,U,X
+  12,U
+  13,R,U,J
+   6,U,X
+  17,R,U
+  20,R,U,J,G
+   5,R,D
+
+  10,R,D,X
+   4,R,D,J
+  14,R
+   5,R,U,X
+   8,R,U
+   7,R,D,X
+   4,R,J
+   1,R,D,J
+
+#1-2
+
+  46,R,J
+
+  12,R,D,X
+  20,R,J
+  22,R,J
+   1,K
+  24,R,K
+   1,J
+  20,R,J
+
+  15,R,U,K,G
+
+   1,R,U,K,G
+  15,R,U,J,G
+
+#peak : 17.3.3
+
+   8,R,U,K,G
+   8,R,U,J,G
+  13,R,K
+  25,R,D
+#jump
+   8,R
+   7,R,D
+   2,R,D
+   1,R,U,J,G
+  14,R,D
+   3,R,J
+  16,R,D
+   6,R,K
+   2,R
+   1,K
+
+   3,R,K
+  30,R,K
+   1,J
+  25,R,J
+
+
+  13,L,K
+   9,L,K
+  10,R,J
+   6,R,U,X
+  30,R,D
+  16,R,D
+   2,D
+   #4
+   8,R,D
+   6,R,X
+  32,R
+   1,J
+  25,R,J
+   1,K
+  25,R,K
+   1,J
+   7,L,K
+   9,R,K
+   1,J
+  24,R,J
+   1,K
+  20,R,J
+   1,K
+  10,R,K
+  16,R,D
+  10,R,D,X
+  60,R,J
+   1,R,D
+#1-3
+  10,R,D,X
+***400
+   1,R,D,J
+   6,R,D
+  10,L,D
+   5,L,D
+   6,L,X
+  30,R,D
+   2,D
+   4,R,D
+   6,R,X
+  10,R
+  15,R
+   6,R,U,X
+  19,R,U
+   6,R,X
+  20,R
+   9,R
+  11,R
+   5,R,X
+  13,R
+   4,L
+   5,R,U,X
+   6,R,U
+   9,U,C
+
+l  90,U
+  20,L,U
+   3,R,D
+   5,R,U,X
+  24,L,D
+  34,D
+   9,L,D
+  10,L,D,X
+  20,R,J
+   8,R
+   5,U,X
+  20,R,U
+   6,U,X
+  23,R,U
+  12,R,U,J,G
+   7,R,D
+
+  10,R,D,X
+  20,R,J
+
+#1-3
+ 200
+   
+ #200,R
